@@ -1,0 +1,9 @@
+C:\Users\Benoit\source\repos\CreateExcelEscrime\CreateExcelEscrime\bin\Debug\CreateExcelEscrime.exe.config
+C:\Users\Benoit\source\repos\CreateExcelEscrime\CreateExcelEscrime\bin\Debug\CreateExcelEscrime.exe
+C:\Users\Benoit\source\repos\CreateExcelEscrime\CreateExcelEscrime\bin\Debug\CreateExcelEscrime.pdb
+C:\Users\Benoit\source\repos\CreateExcelEscrime\CreateExcelEscrime\obj\Debug\CreateExcelEscrime.csproj.AssemblyReference.cache
+C:\Users\Benoit\source\repos\CreateExcelEscrime\CreateExcelEscrime\obj\Debug\CreateExcelEscrime.Properties.Resources.resources
+C:\Users\Benoit\source\repos\CreateExcelEscrime\CreateExcelEscrime\obj\Debug\CreateExcelEscrime.csproj.GenerateResource.cache
+C:\Users\Benoit\source\repos\CreateExcelEscrime\CreateExcelEscrime\obj\Debug\CreateExcelEscrime.csproj.CoreCompileInputs.cache
+C:\Users\Benoit\source\repos\CreateExcelEscrime\CreateExcelEscrime\obj\Debug\CreateExcelEscrime.exe
+C:\Users\Benoit\source\repos\CreateExcelEscrime\CreateExcelEscrime\obj\Debug\CreateExcelEscrime.pdb

@@ -1,0 +1,435 @@
+2025-10-18;Assurance DAS;-338,04;;2025-2026
+2025-10-18;Etat du compte;5653,21;;2025-2026
+2025-10-15;Jordan Mestdagh;170;Location Matériel+Payement 1er Carte;2025-2026
+2025-10-14;Jordan Mestdagh;28;Chaussettes;2025-2026
+2025-10-13;Anaelle Ivanov;14;Chaussettes;2025-2026
+2025-10-13;Raedwald Vercouter;14;Chaussettes;2025-2026
+2025-10-13;Rebecca Vandy;14;Chaussettes;2025-2026
+2025-10-12;Club;-220;Achat Vestes grandes tailles;2025-2026
+2025-10-11;Ligue francophone;-45;Licences;2025-2026
+2025-10-11;Club;-795;Achat Matériels Sabres, pantalon et gants;2025-2026
+2025-10-11;Ligue francophone;-225;Licences;2025-2026
+2025-10-11;Oscar Deblocq;75;Location Matériel;2025-2026
+2025-10-09;Gwendal Lecomte;14;Chaussettes;2025-2026
+2025-10-09;Benedict Consentini;290;Payement à l'année;2025-2026
+2025-10-09;Benedict Consentini;75;Location Matériel;2025-2026
+2025-10-08;Etat du compte;6244,21;;2025-2026
+2025-10-07;Benoit Lafaut;45;payement Licence ;2025-2026
+2025-10-07;Benoit Lafaut;95;Cotisation premiere carte+licence de Fabrice Razanajao (payée en espèce à la salle);2025-2026
+2025-10-07;Benoit Lafaut;42;Chaussettes;2025-2026
+2025-10-06;Amel Lawrizy;75;Location Matériel;2025-2026
+2025-10-06;Oscar Deblocq;45;Complement premiere carte;2025-2026
+2025-10-06;Solal Schrouf;14;Chaussettes;2025-2026
+2025-10-06;Abel & Baptiste Motte;28;Chaussettes;2025-2026
+2025-10-06;Delphine & Sébastien Motte;90;Inscription parents 2025-2026;2025-2026
+2025-10-06;Théo Cucheval Rasson;14;Chaussettes;2025-2026
+2025-10-05;Aurore Carlier;-10;Cookies;2025-2026
+2025-10-05;Ligue francophone;-45;Payement Licence;2025-2026
+2025-10-04;Etat du compte;5851,21;;2025-2026
+2025-10-04;Ligue francophone;-45;Licences;2025-2026
+2025-10-02;Lili Mestdag;14;Payement Chaussettes;2025-2026
+2025-10-02;Amel Lawrizy;290;Payement à l'année;2025-2026
+2025-10-02;Lucas Verheye;95;Payement 1er Carte;2025-2026
+2025-10-02;Gwendal Lecomte;290;Payement à l'année;2025-2026
+2025-10-02;Gwendal Lecomte;75;Location Matériel;2025-2026
+2025-09-30;Oscar Deblocq;50;??;2025-2026
+2025-09-30;Oscar Deblocq;14;Payement Chaussettes;2025-2026
+2025-09-30;Eliot Punchoo;28;Payement Chaussettes;2025-2026
+2025-09-29;Mae Vantroyen;14;Payement Chaussettes;2025-2026
+2025-09-27;Ligue francophone;-100;payement Licences;2025-2026
+2025-09-23;Félix Trannoy;28;payement 2 chaussettes;2025-2026
+2025-09-23;Oscar Ducrot;75;Location Matériel;2025-2026
+2025-09-23;Oscar Ducrot;95;Payement 1er Carte;2025-2026
+2025-09-22;Aurore Carlier;14;payement chaussettes;2025-2026
+2025-09-21;Martin Siu;14;Chaussettes;2025-2026
+2025-09-21;Martin Siu;290;Payement à l'année;2025-2026
+2025-09-21;Martin Siu;75;Location Matériel;2025-2026
+2025-09-17;Théo Rasson;75;Location Matériel;2025-2026
+2025-09-17;Théo Rasson;290;Payement à l'année;2025-2026
+2025-09-16;Solal Schrouf;290;Payement à l'année;2025-2026
+2025-09-16;Solal Schrouf;75;Location Matériel;2025-2026
+2025-09-16;Club KSSMA Ronse;-25;payement compétition;2025-2026
+2025-09-16;Sébastien Motte;25;payement compétition;2025-2026
+2025-09-14;Ligue francophone;-90;Licences;2025-2026
+2025-09-10;Anaelle Ivanov;75;Location Matériel;2025-2026
+2025-09-10;Anaelle Ivanov;290;Payement à l'année;2025-2026
+2025-09-10;Etat du compte;3534.71;;2025-2026
+2025-09-10;Romain Bracquart;75;Location Matériel;2025-2026
+2025-09-10;Romain Bracquart;290;Payement à l'année;2025-2026
+2025-09-09;Noel-Marie Dransart;290;Payement à l'année;2025-2026
+2025-09-09;Noel-Marie Dransart;75;Location Matériel;2025-2026
+2025-09-07;Ligue francophone;-405;licences;2025-2026
+2025-09-07;Lili Mestdag;75;Location Matériel;2025-2026
+2025-09-07;Lili Mestdag;290;Payement à l'année;2025-2026
+2025-09-04;Baptiste Motte;290;Payement à l'année;2025-2026
+2025-09-04;Abel Motte;245;Payement à l'année;2025-2026
+2025-09-04;Abel Motte;75;Location Matériel;2025-2026
+2025-09-04;Baptiste Motte;75;Location Matériel;2025-2026
+2025-09-03;Aurore Carlier;75;Location Matériel;2025-2026
+2025-09-03;Aurore Carlier;290;Payement à l'année;2025-2026
+2025-09-01;Raedwald Vercouter;95;Payement 1er Carte;2025-2026
+2025-09-01;Raedwald Vercouter;75;Location Matériel;2025-2026
+2025-08-29;Eliot Punchoo;75;Location Matériel;2025-2026
+2025-08-29;Eliot Punchoo;290;Payement à l'année;2025-2026
+2025-08-26;Etat du compte;1264,21;;2025-2026
+2025-08-25;Mae Vantroyen;290;Payement à l'année;2025-2026
+2025-08-25;Mae Vantroyen;75;Location Matériel;2025-2026
+2025-08-24;Rebecca Vandy;75;Location Matériel;2025-2026
+2025-08-24;Rebecca Vandy;290;Payement à l'année;2025-2026
+2025-08-24;Régis Trannoy;45;cotisation parent;2025-2026
+2025-08-24;Félix Trannoy;75;Location Matériel;2025-2026
+2025-08-24;Félix Trannoy;290;Payement à l'année;2025-2026
+2025-08-23;Club;-100;payement gomme ponce pour nettoyer armes;2025-2026
+2025-08-12;Club;-113,58;lws site internet hebergement;2025-2026
+2025-07-06;Club;-412,50;Payement de la salle janviers a mars 2025;2024-2025
+2025-07-06;Club;-330;Payement de la salle avril a juin 2025;2024-2025
+2025-06-12;Club;-520;masques preparation competition open hainaut;2024-2025
+2025-05-21;jimprime comme jaime;-60,50;stickers;2024-2025
+2025-05-17;Etat du compte;1674,29;;2024-2025
+2025-05-17;Club;-320;Payement 2 fleurets 2 épées;2024-2025
+2025-05-16;NoelMarie Dransart;170;Payement à l'année;2024-2025
+2025-04-15;Club;-38;payement colle Suisse;2024-2025
+2025-04-15;Fabrice Razanajao;50;Payement 5ème Carte;2024-2025
+2025-04-15;Raedwaeld Vercouter;50;Payement 3ème Carte;2024-2025
+2025-04-12;Oscar Deblocq;50;Payement 3ème Carte;2024-2025
+2025-04-08;admin communal;300;subside;2024-2025
+2025-04-07;baptiste Motte;100;Payement 3ème+4ème Carte;2024-2025
+2025-04-07;abel Motte;50;Payement 3ème Carte;2024-2025
+2025-04-05;Etat du compte;1266.79;;2024-2025
+2025-04-05;Ville de Tournai;-30;;2024-2025
+2025-03-25;Ligue francophone;-250;cotisation annuelle;2024-2025
+2025-03-25;Fabrice Razanajao;50;Payement 4ème Carte;2024-2025
+2025-03-23;Club;-250;Achat Matériel pour le club;2024-2025
+2025-03-22;A.R.A.B.;-30;;2024-2025
+2025-03-22;Ligue francophone;-45;;2024-2025
+2025-03-21;Héloise Pras;50;Payement 3ème Carte;2024-2025
+2025-02-11;Baptiste Motte;50;Payement 3ème Carte;2024-2025
+2025-02-10;Abel Motte;50;Payement 2ème Carte;2024-2025
+2025-02-10;Club;-120;Chariot;2024-2025
+2025-02-10;Ligue francophone;-45;Licence;2024-2025
+2025-02-09;Etat du compte;1845,79;;2024-2025
+2025-02-03;Oscar Deblocq;50;Payement 2ème Carte;2024-2025
+2025-02-02;Club;-520;achat masques compet et fils contacteur;2024-2025
+2025-01-29;Ligue francophone;-45;licence;2024-2025
+2025-01-21;Fabrice Razanajao;50;Payement 3ème Carte;2024-2025
+2025-01-21;Raedwald Vercouter;50;Payement 2ème Carte;2024-2025
+2025-01-18;Etat du compte;2265.29;;2024-2025
+2025-01-17;Baptiste Motte;50;Payement 2ème Carte;2024-2025
+2025-01-17;Eliot Punchoo;75;Location Matériel;2024-2025
+2025-01-16;Fabrice Razanajao;50;Payement 2ème Carte;2024-2025
+2025-01-15;Club;-630.40;appareil favero italy;2024-2025
+2025-01-15;Club;-349;fils de corps;2024-2025
+2025-01-13;Club;-70;boites de rangement leclerc;2024-2025
+2025-01-12;Etat du compte;3140.38;;2024-2025
+2025-01-07;Club;-465;Achat Matériel pour le club masque sabre;2024-2025
+2025-01-06;Ecole Don Bosco;-55.5;;2024-2025
+2025-01-05;Etat du compte;3660,88;;2024-2025
+2025-01-01;Assurance DAS;-265;;2024-2025
+2024-12-30;Ligue francophone;-45;;2024-2025
+2024-12-23;Club;-460;Achat Matériel pour le club;2024-2025
+2024-12-20;Baptiste Motte;150;Location Matériel;2024-2025
+2024-12-13;Club;-257;payement Saint Nicolas;2024-2025
+2024-12-09;Eliot Punchoo;290;Payement à l'année;2024-2025
+2024-12-09;Ing;50;Cost Control;2024-2025
+2024-12-03;Héloïse Pras;50;Payement 2ème Carte;2024-2025
+2024-12-01;Ligue francophone;-90;Licences;2024-2025
+2024-12-01;Club;-170;Achat Matériel pour le club;2024-2025
+2024-11-24;Etat du compte;4417,03;;2024-2025
+2024-11-24;Ligue francophone;-100;licences;2024-2025
+2024-11-22;mae vantroyen;290;Payement à l'année;2024-2025
+2024-11-14;Arthur Barbery;100;rectifications;2024-2025
+2024-11-09;Ligue francophone;-90;licences;2024-2025
+2024-11-09;Etat du compte;4 217,03;;2024-2025
+2024-11-07;Martin Siu;290;Payement à l'année;2024-2025
+2024-11-07;Abel Motte;95;Payement 1er Carte;2024-2025
+2024-11-06;Baptiste Motte;95;Payement 1er Carte;2024-2025
+2024-11-06;Arthur Barbery;265;Payement à l'année+location;2024-2025
+2024-11-03;Ecole Don Bosco;-221.5;Payement de la salle;2024-2025
+2024-11-01;Frais bancaires;-4,5;;2024-2025
+2024-11-03;Etat du compte;3 738,53;;2024-2025
+2024-10-19;benoit lafaut;-1363;Achat Matériel pour le club;2024-2025
+2024-10-19;Ligue francophone;-135;Licences;2024-2025
+2024-10-19;Ligue francophone;-45;Licences;2024-2025
+2024-10-12;Ligue francophone;-90;Licences;2024-2025
+2024-10-12;Etat du compte;5376,03;;2024-2025
+2024-10-11;JORDAN MESTDAGH;365;location du matériel+cotisation annuelle;2024-2025
+2024-10-11;Aurore Carlier;75;location du matériel;2024-2025
+2024-10-08;Anaelle Ivanov;75;location du matériel;2024-2025
+2024-10-08;Fabrice Razanajao;170;location du matériel+paiement 1ere carte;2024-2025
+2024-10-07;Mae Vantroyen;75;location du matériel;2024-2025
+2024-10-06;Oscar Deblocq;170;Payement 1er Carte+location du matériel;2024-2025
+2024-10-04;Eva Dufrasne;170;Payement 1er Carte+location du matériel;2024-2025
+2024-10-04;Ecole Don Bosco;-443;septembre octobre location de la salle;2024-2025
+2024-10-04;Ligue francophone;-55;licences;2024-2025
+2024-10-04;Ecole du chateau;-30;;2024-2025
+2024-10-04;Rémi Soyez;290;Payement à l'année;2024-2025
+2024-10-01;Frais bancaires;-4,5;;2024-2025
+2024-10-01;Anaelle Ivanov;290;Payement à l'année;2024-2025
+2024-09-30;Elodie Mass;365;Payement à l'année+location matériel;2024-2025
+2024-09-27;Sacha Lessart;365;Payement à l'année+location matériel;2024-2025
+2024-09-26;Ligue francophone;-145;payements licence;2024-2025
+2024-09-26;Mathilde Carette;75;Location Matériel;2024-2025
+2024-09-26;Etat du compte;3568,53;;2024-2025
+2024-09-26;A.R.A.B.;-30;Payement arab;2024-2025
+2024-09-25;mathilde carette;290;Payement à l'année;2024-2025
+2024-09-24;Rebecca Vandy;75;Location Matériel;2024-2025
+2024-09-24;Rebecca Vandy;290;Payement à l'année;2024-2025
+2024-09-24;Raedwald Vercouter;95;Payement 1er Carte;2024-2025
+2024-09-23;Simon Amado;365;Location Matériel + cotisation annee;2024-2025
+2024-09-17;Heloise Pras;95;Payement 1er Carte;2024-2025
+2024-09-17;Heloise Pras;75;Location Matériel;2024-2025
+2024-09-17;Martin Siu;75;Location Matériel;2024-2025
+2024-09-17;Louison Binois;245;Payement à l'année;2024-2025
+2024-09-17;Louison Binois;75;Location Matériel;2024-2025
+2024-09-17;Eloi Binois;75;Location Matériel;2024-2025
+2024-09-17;Eloi Binois;290;Payement à l'année;2024-2025
+2024-09-15;Apolline Odendhal;290;Payement à l'année;2024-2025
+2024-09-15;Apolline Odendhal;75;Location Matériel;2024-2025
+2024-09-10;Lili Mestdag;75;Location Matériel;2024-2025
+2024-09-10;Lili Mestdag;290;Payement à l'année;2024-2025
+2024-09-10;Aurore Carlier;290;Payement à l'année;2024-2025
+2024-09-09;Félix Trannoy;290;Payement à l'année;2024-2025
+2024-09-09;Félix Trannoy;75;Location Matériel;2024-2025
+2024-09-01;Etat du compte;143,53;;2024-2025
+2024-09-01;Frais bancaires;-4,5;;2024-2025
+2024-08-01;Frais bancaires;-4,5;;2023-2024
+2024-07-01;Frais bancaires;-4,5;;2023-2024
+2024-06-24;Ecole Don Bosco;-156,88;Payement de la salle;2023-2024
+2024-06-20;Arthur Couturiaux;85;Payement 1er Carte;2023-2024
+2024-06-20;Fabrice Razanajao;40;Payement 2ème Carte;2023-2024
+2024-06-18;Leander Cle;40;Payement 2ème Carte;2023-2024
+2024-06-10;Raedwald Vercouter;50;Location Matériel;2023-2024
+2024-06-05;Etat du compte;+98,91;;2023-2024
+2024-06-01;Frais bancaires;-4.5;;2023-2024
+2024-05-24;Ecole Don Bosco;-156.88;;2023-2024
+2024-05-01;Frais bancaires;-4,5;;2023-2024
+2024-04-24;Ecole Don Bosco;-156.88;Payement de la salle;2023-2024
+2024-04-13;Mathot;+122;Payements Olivia et Rose début saisons;2023-2024
+2024-04-04;FFCEB;-90;;2023-2024
+2024-04-01;Etat du compte;389,67;;2023-2024
+2024-04-01;Frais bancaires;-4.5;;2023-2024
+2024-03-25;Ecole Don Bosco;-156.88;;2023-2024
+2024-03-19;Jordan Mestdagh;163;Payement à l'année proratisé + location matériel;2023-2024
+2024-03-12;Fabrice Razanajao;40;Payement 2ème Carte;2023-2024
+2024-03-12;Fabrice Razanajao;50;Location Matériel;2023-2024
+2024-03-10;Ligue francophone;-250;;2023-2024
+2024-03-10;Ligue francophone;-290;;2023-2024
+2024-03-01;Frais bancaires;-4.5;;2023-2024
+2024-02-26;Ecole Don Bosco;-156.88;Payement de la salle;2023-2024
+2024-02-01;Frais bancaires;-4,5;;2023-2024
+2024-02-01;Ligue francophone;-90;licences;2023-2024
+2024-01-24;Ecole Don Bosco;-156,88;;2023-2024
+2024-01-22;Assurance DAS;-265;;2023-2024
+2024-01-03;Maybelle Carlier;135;Payement 1er Carte + location matériel;2023-2024
+2024-01-01;Frais bancaires;-4,5;;2023-2024
+2023-12-27;Ecole Don Bosco;-156,88;Achat Matériel pour le club;2023-2024
+2023-12-26;Club;-670;Achat Matériel pour le club;2023-2024
+2023-12-21;Club;-648,7;Achat Matériel pour le club;2023-2024
+2023-12-20;Lisa Waeselynck;50;Location Matériel;2023-2024
+2023-12-11;Etat du compte;2811,04;;2023-2024
+2023-12-11;Rémi Soyez;260;Payement à l'année;2023-2024
+2023-12-01;Frais bancaires;-4.5;;2023-2024
+2023-11-24;Ecole Don Bosco;-156,88;location salle;2023-2024
+2023-11-24;benoit lafaut;-488;;2023-2024
+2023-11-06;Etat du compte;3200;;2023-2024
+2023-11-01;Frais bancaires;-4.5;;2023-2024
+2023-10-24;Arthur Barbery;50;Location Matériel;2023-2024
+2023-10-24;Arthur Barbery;260;Payement à l'année;2023-2024
+2023-10-24;Ecole Don Bosco;-156.88;Payement de la salle;2023-2024
+2023-10-23;Judith Deblocq;40;Payement 2ème Carte;2023-2024
+2023-10-23;Judith Deblocq;85;Payement 1er Carte;2023-2024
+2023-10-23;Oscar et Judith Deblocq;100;Location Matériel;2023-2024
+2023-10-23;Baptiste Motte;40;Payement 2ème Carte;2023-2024
+2023-10-19;Club;-75;Achat Matériel pour le club;2023-2024
+2023-10-09;Fabrice Razanajao;85;Payement 1er Carte;2023-2024
+2023-10-05;benoit lafaut;-250;;2023-2024
+2023-10-05;Etat du compte;3026,80;;2023-2024
+2023-10-05;Leander Eloise Catherine Cle;150;Location Matériel;2023-2024
+2023-10-05;Leander Eloise Catherine Cle;85;Payement 1er Carte;2023-2024
+2023-10-05;Leander Eloise Catherine Cle;85;Payement 1er Carte;2023-2024
+2023-10-05;Leander Eloise Catherine Cle;85;Payement 1er Carte;2023-2024
+2023-10-04;Oscar Deblocq;260;Payement à l'année;2023-2024
+2023-10-01;Frais bancaires;-4,5;;2023-2024
+2023-09-25;Ecole Don Bosco;-156,88;;2023-2024
+2023-09-25;Lisa Waeselynck;260;Payement à l'année;2023-2024
+2023-09-25;Cyril Leclercq;310;Payement à l'année+location materiel;2023-2024
+2023-09-23;Etat du compte;1953,18;;2023-2024
+2023-09-20;Abygaelle Roussel ;50;Location Matériel;2023-2024
+2023-09-20;Abygaelle Roussel ;85;Payement 1er Carte;2023-2024
+2023-09-18;Abel Motte;85;Payement 1er Carte;2023-2024
+2023-09-18;Baptiste Motte;85;Payement 1er Carte;2023-2024
+2023-09-18;Baptiste et Abel Motte;100;Location Matériel;2023-2024
+2023-09-14;Eva Dufrasne;260;Payement à l'année;2023-2024
+2023-09-14;Eva Dufrasne;50;Location Matériel;2023-2024
+2023-09-13;Margaux et Lalie Courret;100;Location Matériel;2023-2024
+2023-09-13;Margaux et Lalie Courret;475;Payement à l'année;2023-2024
+2023-09-11;Club;-161,23;Achat Matériel pour le club;2023-2024
+2023-09-11;Club;-755,23;Achat Matériel pour le club;2023-2024
+2023-09-11;Romane Basselier;-50;Remboursement location matériel à un tireur;2023-2024
+2023-09-03;Etat du compte;1629,64;;2023-2024
+2023-09-03;Club;-120;Achat Matériel pour le club favero prise appareil;2023-2024
+2023-09-02;Félix Trannoy;260;Payement à l'année;2023-2024
+2023-09-02;Félix Trannoy;50;Location Matériel;2023-2024
+2023-09-01;Frais bancaires;-4.5;;2023-2024
+2023-08-28;Club;-250;Achat matériel;2023-2024
+2023-08-28;Prieur;-341,40;Achat matériel veste sous veste;2023-2024
+2023-08-10;Club;-114;payement lws site;2022-2023
+2023-08-10;Club;+720;transfert compte epargne compte courant;2022-2023
+2023-08-10;Favero;-718,14;Achat Matériel pour le club;2022-2023
+2023-08-01;Frais bancaires;-4,5;;2022-2023
+2023-07-03;Ecole Don Bosco;-164,4;;2022-2023
+2023-07-01;Frais bancaires;-4.5;;2022-2023
+2023-06-20;Etat du compte;2321,08;;2022-2023
+2023-06-20;A.R.A.B.;-30;;2022-2023
+2023-06-17;Iann Dransart;100;Payement 1er Carte;2022-2023
+2023-06-07;Romane Basselier;100;Payement 1er Carte;2022-2023
+2023-06-02;Lisa Waeselynck;73;Payement 1er Carte;2022-2023
+2023-06-02;Ecole Don Bosco;-164,4;Payement de la salle;2022-2023
+2023-06-01;Frais bancaires;-4,5;;2022-2023
+2023-06-01;Ligue francophone;-250;cotisation club;2022-2023
+2023-05-30;Karel Debruyne;321;Payement à l'année;2022-2023
+2023-05-23;Fabrice Razanajao;40;Payement 2ème Carte;2022-2023
+2023-05-23;Maybelle Carlier;40;Payement 3ème Carte;2022-2023
+2023-05-23;Maybelle Carlier;40;Payement 2ème Carte;2022-2023
+2023-05-23;Maybelle Carlier;85;Payement 1er Carte;2022-2023
+2023-05-02;Ecole Don Bosco;-164.4;Payement de la salle;2022-2023
+2023-05-01;Frais bancaires;-4.5;;2022-2023
+2023-05-01;Club;-76.67;Achat Matériel pour le club;2022-2023
+2023-04-03;Ecole Don Bosco;-164.4;Payement de la salle;2022-2023
+2023-04-01;Frais bancaires;-4.5;;2022-2023
+2023-03-02;Oscar Deblocq;51;Achat Matériel pour un tireur;2022-2023
+2023-02-19;Ecole Don Bosco;-164,4;Payement de la salle;2022-2023
+2023-02-19;Frais bancaires;-4.5;Achat Matériel pour le club;2022-2023
+2023-02-19;Thomas Gillet;40;Payement 3ème Carte;2022-2023
+2023-02-06;Baptiste Motte;40;Payement 2ème Carte;2022-2023
+2023-02-03;Christophe Kossi Abadjene;85;;2022-2023
+2023-02-02;Ecole Don Bosco;-164,4;;2022-2023
+2023-02-01;Frais bancaires;-4.5;;2022-2023
+2023-01-02;Ecole Don Bosco;-164.40;;2022-2023
+2023-01-01;Frais bancaires;-0.15;intérets frais;2022-2023
+2023-01-01;Frais bancaires;-4.5;;2022-2023
+2022-12-23;Club;-180;Achat Matériel pour le club;2022-2023
+2022-12-23;Club;-200;Saint Nicolas;2022-2023
+2022-12-23;Assurance DAS;-227;;2022-2023
+2022-12-21;Thomas Gillet;+40;Payement 2ème Carte;2022-2023
+2022-12-02;Ecole Don Bosco;-164.4;;2022-2023
+2022-12-01;Frais bancaires;-4.50;;2022-2023
+2022-11-28;Ligue francophone;-560;Licences;2022-2023
+2022-11-14;Jules Dooms;260;Payement à l'année;2022-2023
+2022-11-14;Jules Dooms;50;Location Matériel;2022-2023
+2022-11-09;Antoine Lemaire;40;Payement 2ème Carte;2022-2023
+2022-11-09;Antoine Lemaire;85;Payement 1er Carte;2022-2023
+2022-11-08;Fabrice Razanajao;85;Payement 1er Carte;2022-2023
+2022-11-02;Ecole Don Bosco;-164.40;Payement de la salle;2022-2023
+2022-11-01;Frais bancaires;-4.5;;2022-2023
+2022-10-19;Club;-430;Achat Matériel pour le club;2022-2023
+2022-10-17;Baptiste Motte;50;Location Matériel;2022-2023
+2022-10-17;Baptiste Motte;85;Payement 1er Carte;2022-2023
+2022-10-16;Maxime Delmotte;85;Payement 1er Carte;2022-2023
+2022-10-02;Ecole Don Bosco;-164.4;Payement de la salle;2022-2023
+2022-10-02;Oscar Deblocq;260;Payement à l'année;2022-2023
+2022-10-02;Judith Deblocq;215;Payement à l'année;2022-2023
+2022-10-02;Judith Deblocq;50;Location Matériel;2022-2023
+2022-10-02;Oscar Deblocq;50;Location Matériel;2022-2023
+2022-10-01;Frais bancaires;-4.5;;2022-2023
+2022-09-29;Arthur Carlier;310;Payement à l'année+location;2022-2023
+2022-09-28;Eliot Brabant;155;Payement à l'année;2022-2023
+2022-09-26;Club;0;Résumé Situation : +2960,00 euros;2022-2023
+2022-09-26;Esteban Hoel;95;Payement 1er Carte (pas complete)+location matériel;2022-2023
+2022-09-23;Thomas Gillet;85;Payement 1er Carte;2022-2023
+2022-09-15;Cyril Leclercq;50;Location Matériel;2022-2023
+2022-09-15;Cyril Leclercq;260;Payement à l'année;2022-2023
+2022-09-15;Gabriel Dooms;260;Payement à l'année;2022-2023
+2022-09-15;Gabriel Dooms;50;Location Matériel;2022-2023
+2022-09-15;Eliot Brabant;155;Payement à l'année;2022-2023
+2022-09-15;Arthur Barbery;50;Location Matériel;2022-2023
+2022-09-15;Arthur Barbery;260;Payement à l'année;2022-2023
+2022-09-14;Félix Trannoy;260;Payement à l'année;2022-2023
+2022-09-14;Félix Trannoy;50;Location Matériel;2022-2023
+2022-09-01;Frais bancaires;-4.5;;2021-2022
+2022-08-01;Frais bancaires;-4.5;;2021-2022
+2022-07-28;A.R.A.B.;-30;;2021-2022
+2022-07-01;Frais bancaires;-4.5;décompte de frais;2021-2022
+2022-06-28;Club;-1800;Voiture;2021-2022
+2022-06-13;Ecole Don Bosco;-601.68;Payement de la salle;2021-2022
+2022-06-01;Frais bancaires;-4.5;;2021-2022
+2022-05-09;Esteban Hoel;40;Payement 3ème Carte;2021-2022
+2022-05-02;Frais bancaires;-4,5;;2021-2022
+2022-04-01;Frais bancaires;-4,5;;2021-2022
+2022-03-17;Ligue francophone;-250;;2021-2022
+2022-03-07;Baptiste Motte;40;Payement 2ème Carte;2021-2022
+2022-03-03;Noa Roger;87;Achat Matériel pour un tireur;2021-2022
+2022-03-01;Frais bancaires;-4,5;;2021-2022
+2022-02-23;Justin Depuydt;85;Payement 1er Carte;2021-2022
+2022-02-21;Eliot Brabant;40;Payement 2ème Carte;2021-2022
+2022-02-17;Fabrice Razanajao;40;Payement 2ème Carte;2021-2022
+2022-02-15;Thomas Richeling;40;Payement 3ème Carte;2021-2022
+2022-02-15;Lenny Legrand;40;Payement 3ème Carte;2021-2022
+2022-02-11;Nathanael Callewaert;40;Payement 3ème Carte;2021-2022
+2022-02-11;Club;-102,85;;2021-2022
+2022-02-04;Antoine Gillet;40;Payement 2ème Carte;2021-2022
+2022-02-04;Thomas Gillet;40;Payement 2ème Carte;2021-2022
+2022-02-01;Frais bancaires;-4,5;;2021-2022
+2022-01-31;Eliot Brabant;50;Location Matériel;2021-2022
+2022-01-31;Eliot Brabant;85;Payement 1er Carte;2021-2022
+2022-01-14;Ecole Don Bosco;-451,26;;2021-2022
+2022-01-03;Frais bancaires;-4,5;;2021-2022
+2021-12-07;Esteban Hoel;40;Payement 2ème Carte;2021-2022
+2021-12-06;Nathanael Callewaert;40;Payement 2ème Carte;2021-2022
+2021-12-06;Augustin Goetgebuer;260;Payement à l'année;2021-2022
+2021-12-06;Augustin Goetgebuer;50;Location Matériel;2021-2022
+2021-12-01;Rosalie Marchal;85;Payement 1er Carte;2021-2022
+2021-12-01;Frais bancaires;-4,5;;2021-2022
+2021-11-22;Baptiste Motte;42;Achat Matériel pour un tireur;2021-2022
+2021-11-16;Lenny Legrand;40;Payement 2ème Carte;2021-2022
+2021-11-16;Simon Porre;260;Payement à l'année;2021-2022
+2021-11-16;Thomas Richeling;40;Payement 2ème Carte;2021-2022
+2021-11-15;Antoine Lemaire;-150.50;Remboursement location matériel à un tireur;2021-2022
+2021-11-11;Karel Debruyne;39;Achat Matériel pour un tireur;2021-2022
+2021-11-09;Ecole Don Bosco;-451.26;;2021-2022
+2021-11-01;Frais bancaires;-4.5;;2021-2022
+2021-10-25;Ligue francophone;-45;;2021-2022
+2021-10-25;Club;-102;;2021-2022
+2021-10-25;Ligue francophone;-135;;2021-2022
+2021-10-22;Fabrice Razanajao;85;Payement 1er Carte;2021-2022
+2021-10-20;Nathanael Callewaert;85;Payement 1er Carte;2021-2022
+2021-10-18;Assurance DAS;-205;;2021-2022
+2021-10-18;Ligue francophone;-145;;2021-2022
+2021-10-11;Djego Makangila;50;Location Matériel;2021-2022
+2021-10-11;Sacha Makangila;50;Location Matériel;2021-2022
+2021-10-11;Sacha Makangila;85;Payement 1er Carte;2021-2022
+2021-10-11;Djego Makangila;85;Payement 1er Carte;2021-2022
+2021-10-08;Arthur Barbery;50;Location Matériel;2021-2022
+2021-10-08;Arthur Barbery;260;Payement à l'année;2021-2022
+2021-10-08;Club;-56,36;;2021-2022
+2021-10-07;Karel Debruyne;50;Location Matériel;2021-2022
+2021-10-07;Karel Debruyne;260;Payement à l'année;2021-2022
+2021-10-05;Oscar Deblocq;260;Payement à l'année;2021-2022
+2021-10-05;Oscar Deblocq;50;Location Matériel;2021-2022
+2021-10-04;Ligue francophone;-135;;2021-2022
+2021-10-04;Maybelle Carlier;260;Payement à l'année;2021-2022
+2021-10-04;Maybelle Carlier;50;Location Matériel;2021-2022
+2021-10-04;Ligue francophone;-45;;2021-2022
+2021-10-04;Ligue francophone;-45;;2021-2022
+2021-10-04;Ligue francophone;-135;;2021-2022
+2021-10-01;Frais bancaires;-4.5;;2021-2022
+2021-10-01;Luc Lesire;85;Payement 1er Carte;2021-2022
+2021-09-28;Antoine Lemaire;40;Payement 3ème Carte;2021-2022
+2021-09-28;Antoine Lemaire;40;Payement 2ème Carte;2021-2022
+2021-09-28;Antoine Lemaire;85;Payement 1er Carte;2021-2022
+2021-09-27;Esteban Hoel;50;Location Matériel;2021-2022
+2021-09-27;Esteban Hoel;85;Payement 1er Carte;2021-2022
+2021-09-27;Ligue francophone;-180;;2021-2022
+2021-09-27;Arnaud Lesaffre;-120;Remboursement location matériel à un tireur;2021-2022
+2021-09-27;Hakim Hamdi;-50;Remboursement location matériel à un tireur;2021-2022
+2021-09-27;Laura Van Wynsberghe;-50;Remboursement location matériel à un tireur;2021-2022
+2021-09-20;Baptiste Motte;50;Location Matériel;2021-2022
+2021-09-20;Baptiste Motte;85;Payement 1er Carte;2021-2022
+2021-09-16;Thomas Richeling;85;Payement 1er Carte;2021-2022
+2021-09-16;Thomas Richeling;50;Location Matériel;2021-2022
+2021-09-15;Justin Depuydt;50;Location Matériel;2021-2022
+2021-09-15;Thomas Gillet;85;Payement 1er Carte;2021-2022
+2021-09-15;Antoine Gillet;85;Payement 1er Carte;2021-2022
+2021-09-01;Lenny Legrand;85;Payement 1er Carte;2021-2022
+2021-09-01;Lenny Legrand;90;Achat Matériel pour un tireur;2021-2022
+2021-09-01;Frais bancaires;-4.5;;2021-2022
