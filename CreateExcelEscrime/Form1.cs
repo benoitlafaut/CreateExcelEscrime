@@ -50,10 +50,58 @@ namespace CreateExcelEscrime
             comboBoxRaison.Items.Add("Remboursement location matériel à un tireur");
 
             label5.Text = DateTime.Now.ToShortDateString();
+
+            RemplissagePourASBL();
+        }
+
+        private void RemplissagePourASBL()
+        {
+            comboBoxDépensesRecettes.Items.Clear();
+            comboBoxPots.Items.Clear();
+
+            if (textBoxMontant.Text == "" || textBoxMontant.Text == "-")
+            {
+
+            }
+            else
+            {
+                if (Convert.ToInt32(textBoxMontant.Text) > 0)
+                {
+                    comboBoxDépensesRecettes.Items.Add("Recettes");
+                    comboBoxDépensesRecettes.SelectedIndex = 0;
+
+                    comboBoxPots.Items.Add("");
+                    comboBoxPots.Items.Add("Autres recettes");
+                    comboBoxPots.Items.Add("Cotisations");
+                    comboBoxPots.Items.Add("LocationMatériel");
+                    comboBoxPots.Items.Add("Subsides");
+                    comboBoxPots.Items.Add("VenteMatériel");
+                }
+                else
+                {
+                    comboBoxDépensesRecettes.Items.Add("Dépenses");
+                    comboBoxDépensesRecettes.SelectedIndex = 0;
+
+                    comboBoxPots.Items.Add("");
+                    comboBoxPots.Items.Add("asbl");
+                    comboBoxPots.Items.Add("Assurance");
+                    comboBoxPots.Items.Add("Autres dépenses");
+                    comboBoxPots.Items.Add("Ligue");
+                    comboBoxPots.Items.Add("Marchandises");
+                    comboBoxPots.Items.Add("Rémunérations");
+                    comboBoxPots.Items.Add("Site");
+                    comboBoxPots.Items.Add("Salle");
+                }
+            }
         }
 
         private void btnComptabiliser_Click(object sender, EventArgs e)
         {
+            if (comboBoxPots.Text == "")
+            {
+                return;
+            }
+
             btnComptabiliser.Enabled = !btnComptabiliser.Enabled;
             string path = Path.GetDirectoryName(Application.ExecutablePath) + @"\CreateExcel.txt";
 
@@ -100,6 +148,8 @@ namespace CreateExcelEscrime
             xlWorkSheet.Cells[1, 5] = "Motif";
             xlWorkSheet.Cells[1, 6] = "Période";
             xlWorkSheet.Cells[1, 7] = "Etat du compte";
+            xlWorkSheet.Cells[1, 8] = "Dépenses/Recettes";
+            xlWorkSheet.Cells[1, 9] = "Pots";
 
             string path = Path.GetDirectoryName(Application.ExecutablePath) + @"\CreateExcel.txt";
             string[] rows = File.ReadAllLines(path);
@@ -134,6 +184,9 @@ namespace CreateExcelEscrime
                     }
                     xlWorkSheet.Cells[rowIndew, 5] = cellule[3];
                     xlWorkSheet.Cells[rowIndew, 6] = cellule[4];
+
+                    xlWorkSheet.Cells[rowIndew, 8] = cellule[5];
+                    xlWorkSheet.Cells[rowIndew, 9] = cellule[6];
                 }
 
                 rowIndew++;
@@ -145,10 +198,10 @@ namespace CreateExcelEscrime
 
             usedrange.Style.HorizontalAlignment = -4108;
 
-            string pathOutput = Path.GetDirectoryName(Application.ExecutablePath) + @"\ExportCreateExcel.xls";
+            string pathOutput = Path.GetDirectoryName(Application.ExecutablePath) + @"\ExportCreateExcel.xlsx";
             File.Delete(pathOutput);
 
-            xlWorkBook.SaveAs(pathOutput, Excel.XlFileFormat.xlWorkbookNormal, misValue, misValue, misValue, misValue, Excel.XlSaveAsAccessMode.xlExclusive, misValue, misValue, misValue, misValue, misValue);
+            xlWorkBook.SaveAs(pathOutput, Excel.XlFileFormat.xlOpenXMLWorkbook, misValue, misValue, misValue, misValue, Excel.XlSaveAsAccessMode.xlExclusive, misValue, misValue, misValue, misValue, misValue);
             xlWorkBook.Close(true, misValue, misValue);
             xlApp.Quit();
 
@@ -270,6 +323,11 @@ namespace CreateExcelEscrime
             n = n.Replace("samedi", "Sam ");
             n = n.Replace("dimanche", "Dim ");
             return n;
+        }
+
+        private void textBoxMontant_TextChanged(object sender, EventArgs e)
+        {
+            RemplissagePourASBL();
         }
     }
 }
